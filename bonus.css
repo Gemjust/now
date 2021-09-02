@@ -1,0 +1,82 @@
+.{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#auth-layout{
+    box-sizing: border-box;
+    background-color: red;
+    margin: 0%;
+    size: 0pt;
+    
+
+}
+.image-section{
+    background: url(../img/bonus.png);
+    background-repeat: no-repeat;
+    background-color: white;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.headline{
+    width: 100vh;
+    align-content: center;
+}
+.head{
+    align-self: auto;
+    padding-left: 430px;
+    padding-top: 20px;
+    
+}
+
+.subheading{
+    align-content: center;
+    padding-left: 20px;
+}
+.form-section1{
+    background: mintcream;
+}
+.form-row .input{
+    width: 100%;
+    background: mintcream;
+
+}
+
+.form-row .input-box input{
+    width: 80%;
+    height: 60%;
+    padding: 20px;
+    background: mintcream;
+}
+.form-row2 .input-box{
+    width: 100%;
+    background: mintcream;
+}
+.form-row2 .input-box input{
+    width: 80%;
+    height: 60%;
+    padding: 20px;
+    background: mintcream;
+}
+.form-row1 .input-box{
+    width: 100%;
+    background: mintcream;
+}
+.form-row1 textarea{
+    width: 80%;
+    height: 60%;
+    padding: 20px;
+    background: mintcream;
+}
+.button-section button{
+    background-color: blue;
+    padding: ;
+    width: 10%;
+    color: white;
+}
+.button-section{
+    display: flex;
+    justify-content: flex-end;
+
+}
